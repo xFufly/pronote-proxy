@@ -48,8 +48,6 @@ Les contributions à ce projet sont les bienvenues. N'hésitez pas à ouvrir une
 
 ## Licence
 
-Ce projet est sous licence MIT.
-
 MIT License
 
 Copyright (c) 2023 Caraploof & Fufly
