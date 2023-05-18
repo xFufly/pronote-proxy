@@ -14,7 +14,6 @@ Il permet à l'élève d'avoir l'option de personnaliser les éléments de la pa
 
 Avant d'utiliser le proxy, assurez-vous de mettre à jour les variables de configuration suivantes dans le fichier `index.js` :
 
-- `webPath`: Le chemin vers le dossier contenant les fichiers CSS et JavaScript de l'interface Pronote.
 - `serverUrl`: L'URL du serveur Pronote vers lequel les requêtes seront redirigées.
 
 ## Prérequis
