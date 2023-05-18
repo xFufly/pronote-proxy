@@ -8,6 +8,8 @@ Le proxy Pronote permet de contourner les restrictions de même origine (same-or
 
 Le proxy gère les requêtes GET et POST vers l'API Pronote, ainsi que le chargement des fichiers CSS et JavaScript nécessaires pour l'interface.
 
+Il permet à l'élève d'avoir l'option de personnaliser les éléments de la page d'acceuille, qui est normalement une fonctionnalité seulement disponible pour les étudiants.
+
 ## Configuration
 
 Avant d'utiliser le proxy, assurez-vous de mettre à jour les variables de configuration suivantes dans le fichier `index.js` :
@@ -17,7 +19,7 @@ Avant d'utiliser le proxy, assurez-vous de mettre à jour les variables de confi
 
 ## Prérequis
 
-- Node.js (version X.X.X ou supérieure)
+- Node.js
 
 ## Installation
 
