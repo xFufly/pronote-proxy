@@ -8,7 +8,7 @@ Le proxy Pronote permet de contourner les restrictions de même origine (same-or
 
 Le proxy gère les requêtes GET et POST vers l'API Pronote, ainsi que le chargement des fichiers CSS et JavaScript nécessaires pour l'interface.
 
-Il permet à l'élève d'avoir l'option de personnaliser les éléments de la page d'acceuille, qui est normalement une fonctionnalité seulement disponible pour les étudiants.
+Il permet à l'élève d'avoir l'option de personnaliser les éléments de la page d'acceuille, qui est normalement une fonctionnalité seulement disponible pour les enseignants.
 
 ## Configuration
 
